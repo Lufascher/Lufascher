@@ -1,0 +1,11 @@
+Let's make a game!
+name: Civilisation Simulator
+author: Freadchen606 und Lufascher
+desc: Cookie Clicker auf Wish
+created: 11.09.1984
+version: 0.69
+
+Settings
+background: Minecraft_missing_texture_block.jpg
+building cost increase: 100%
+building cost refund: 50%
